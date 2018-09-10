@@ -1,0 +1,7 @@
+G:\.net traing\Assignments\Day04\CollectionsChash\CollectionsChash\obj\Debug\CollectionsChash.csprojAssemblyReference.cache
+G:\.net traing\Assignments\Day04\CollectionsChash\CollectionsChash\obj\Debug\CollectionsChash.csproj.CoreCompileInputs.cache
+G:\.net traing\Assignments\Day04\CollectionsChash\CollectionsChash\bin\Debug\CollectionsChash.exe.config
+G:\.net traing\Assignments\Day04\CollectionsChash\CollectionsChash\bin\Debug\CollectionsChash.exe
+G:\.net traing\Assignments\Day04\CollectionsChash\CollectionsChash\bin\Debug\CollectionsChash.pdb
+G:\.net traing\Assignments\Day04\CollectionsChash\CollectionsChash\obj\Debug\CollectionsChash.exe
+G:\.net traing\Assignments\Day04\CollectionsChash\CollectionsChash\obj\Debug\CollectionsChash.pdb
